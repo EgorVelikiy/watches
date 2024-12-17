@@ -3,7 +3,7 @@
     height: 350px;
     width: 350px;
     padding: 10px;
-    background: #fff url('https://cssanimation.rocks/images/posts/clocks/ios_clock.svg') no-repeat center;
+    background: #fff url('../../../assets/ios_clock.svg') no-repeat center;
     background-size: 70%;
     border: 1px solid black;
     border-radius: 3%;
