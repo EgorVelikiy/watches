@@ -1,0 +1,16 @@
+* {
+  color: black;
+  background-color: white;
+}
+
+#root {
+  width: 100%;
+}
+
+body {
+  justify-content: center;
+}
+
+ul {
+  list-style-type: none;
+}
